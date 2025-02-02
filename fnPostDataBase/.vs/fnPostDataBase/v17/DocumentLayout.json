@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D489B49-09A7-4BA0-8903-C2D6BEFD163D}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-functions-orchestration\\fnpostdatabase\\fnpostdatabase\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D489B49-09A7-4BA0-8903-C2D6BEFD163D}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D489B49-09A7-4BA0-8903-C2D6BEFD163D}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-functions-orchestration\\fnpostdatabase\\fnpostdatabase\\movierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D489B49-09A7-4BA0-8903-C2D6BEFD163D}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\movierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D489B49-09A7-4BA0-8903-C2D6BEFD163D}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-functions-orchestration\\fnpostdatabase\\fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D489B49-09A7-4BA0-8903-C2D6BEFD163D}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D489B49-09A7-4BA0-8903-C2D6BEFD163D}|fnPostDataBase\\fnPostDataBase.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-functions-orchestration\\fnpostdatabase\\fnpostdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D489B49-09A7-4BA0-8903-C2D6BEFD163D}|fnPostDataBase\\fnPostDataBase.csproj|solutionrelative:fnpostdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\fnPostDataBase\\Function1.cs",
+              "RelativeDocumentMoniker": "fnPostDataBase\\Function1.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\fnPostDataBase\\Function1.cs",
+              "RelativeToolTip": "fnPostDataBase\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T13:59:05.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\fnPostDataBase\\local.settings.json",
+              "RelativeDocumentMoniker": "fnPostDataBase\\local.settings.json",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\fnPostDataBase\\local.settings.json",
+              "RelativeToolTip": "fnPostDataBase\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T14:06:46.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\fnPostDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "fnPostDataBase\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\fnPostDataBase\\Program.cs",
+              "RelativeToolTip": "fnPostDataBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:06:45.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRequest.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\fnPostDataBase\\MovieRequest.cs",
+              "RelativeDocumentMoniker": "fnPostDataBase\\MovieRequest.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnPostDataBase\\fnPostDataBase\\MovieRequest.cs",
+              "RelativeToolTip": "fnPostDataBase\\MovieRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:02:04.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
