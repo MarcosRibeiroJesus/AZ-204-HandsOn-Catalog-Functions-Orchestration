@@ -1,0 +1,8 @@
+<div class="movie-grid">
+    <div *ngFor="let movie of movies" class="movie-card" (click)="openMovieDetails(movie.id)">
+      <img [src]="movie.thumb" [alt]="movie.title" />
+      <h3>{{ movie.title }}</h3>
+      <p>{{ movie.year }}</p>
+    </div>
+  </div>
+  

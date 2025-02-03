@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\",
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-functions-orchestration\\fngetmoviedetail\\fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-catalog-functions-orchestration\\fngetmoviedetail\\fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-functions-orchestration\\fngetmoviedetail\\fngetmoviedetail\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-catalog-functions-orchestration\\fngetmoviedetail\\fngetmoviedetail\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-functions-orchestration\\fngetmoviedetail\\fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-catalog-functions-orchestration\\fngetmoviedetail\\fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-functions-orchestration\\fngetmoviedetail\\fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|c:\\users\\marco\\onedrive\\documentos\\learning\\azure\\az-204\\az-204-handson-catalog-functions-orchestration\\fngetmoviedetail\\fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D5D34FC9-8B5F-47E9-B731-59F309BF7D00}|fnGetMovieDetail\\fnGetMovieDetail.csproj|solutionrelative:fngetmoviedetail\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -36,24 +36,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\Program.cs",
               "RelativeDocumentMoniker": "fnGetMovieDetail\\Program.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\Program.cs",
               "RelativeToolTip": "fnGetMovieDetail\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:42:53.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:42:53.964Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\Function1.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\Function1.cs",
               "RelativeDocumentMoniker": "fnGetMovieDetail\\Function1.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\Function1.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\Function1.cs",
               "RelativeToolTip": "fnGetMovieDetail\\Function1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T00:17:14.664Z",
               "EditorCaption": ""
@@ -62,27 +61,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "local.settings.json",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\local.settings.json",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\local.settings.json",
               "RelativeDocumentMoniker": "fnGetMovieDetail\\local.settings.json",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\local.settings.json",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\local.settings.json",
               "RelativeToolTip": "fnGetMovieDetail\\local.settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T00:36:28.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:36:28.297Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MovieResult.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\MovieResult.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\MovieResult.cs",
               "RelativeDocumentMoniker": "fnGetMovieDetail\\MovieResult.cs",
-              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\MovieResult.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Documentos\\Learning\\Azure\\AZ-204\\AZ-204-HandsOn-Catalog-Functions-Orchestration\\fnGetMovieDetail\\fnGetMovieDetail\\MovieResult.cs",
               "RelativeToolTip": "fnGetMovieDetail\\MovieResult.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:19:25.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T00:19:25.684Z"
             }
           ]
         }
